@@ -1,0 +1,50 @@
+{
+  "cSpell.words": ["luminousintel"],
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.rulers": [120],
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "files.associations": {
+    "*.mdc": "markdown"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on"
+  },
+"window.title": "✨ Luminous Intel AI - ${activeEditorShort}${dirty}",
+"workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#0ab9e3",
+    "activityBar.background": "#0ab9e3",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#d609ae",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#0ab9e3",
+    "statusBar.background": "#0891b2",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#0ab9e3",
+    "statusBarItem.remoteBackground": "#0891b2",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#0891b2",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0891b299",
+    "titleBar.inactiveForeground": "#e7e7e799"
+},
+"peacock.color": "#0891b2"
+} 
