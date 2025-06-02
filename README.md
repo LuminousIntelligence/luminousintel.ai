@@ -19,7 +19,7 @@ at [luminousintel.ai](https://luminousintel.ai).
 ## Links
 
 - **Website**: [luminousintel.ai](https://luminousintel.ai)
-- **Leadership**: [TechNick.ai](https://technick.ai)
+- **Leadership**: [Nick Sullivan (TechNick.ai)](https://technick.ai)
 
 ## License
 
